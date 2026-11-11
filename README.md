@@ -19,18 +19,6 @@ A simple and interactive Sticky Notes application built using **React JS and Tai
 - **Tailwind CSS** – Styling and responsive layouts.
 - **Vite** – Development server and build tool.
 
-## 📂 Project Structure
-
-```text
-src/
-├── App.jsx
-├── main.jsx
-└── index.css
-
-public/
-└── assets/
-```
-
 ## 🚀 Getting Started
 
 Follow these steps to run the project locally.
@@ -38,7 +26,7 @@ Follow these steps to run the project locally.
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/Suhani-Subodh-Kambli/react-sticky-notes
 ```
 
 ### 2. Navigate to the project folder
